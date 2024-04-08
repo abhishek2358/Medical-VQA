@@ -1,0 +1,1 @@
+Download pretrained model from: https://huggingface.co/xmcmic/MedVInT-TD/tree/main and place in this directory.

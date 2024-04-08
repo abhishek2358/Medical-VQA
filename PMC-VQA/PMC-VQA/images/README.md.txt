@@ -1,0 +1,1 @@
+To download the dataset visit: https://huggingface.co/datasets/xmcmic/PMC-VQA and git-clone to this directory

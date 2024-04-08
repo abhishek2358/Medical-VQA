@@ -1,0 +1,1 @@
+Download the checkpoint from: https://huggingface.co/datasets/axiong/pmc_oa/blob/main/checkpoint.pt and place in this directory.
